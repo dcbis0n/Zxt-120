@@ -39,7 +39,7 @@ preferences {
 }
 
 metadata {
-    definition (name: "ZXT-120 IR Sender Improved", namespace: "gouldner", author: "Ronald Gouldner") {
+    definition (name: "ZXT-120 IR Extender", namespace: "dcbis0n", author: "George Davenport") {
         // Device capabilities of the ZXT-120
         capability "Actuator"
         capability "Temperature Measurement"
